@@ -1,6 +1,6 @@
 - 👋 Hi, My Name is Rashk Mahmood
 - 👀 I’m interested in Science
-- 🌱 I’m currently learning Rammohan College Science Section in Kolkata (India)
+- 🌱 I’m currently learning in Rammohan College Science Section in Kolkata (India)
 
 
 <!---
